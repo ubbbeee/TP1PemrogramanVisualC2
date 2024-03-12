@@ -9,3 +9,4 @@ dan ras untuk masing masing subclass
 masing masing subclass hewan punya method mengeluarkan suara untuk kucing mengeong dan untuk anjing mengonggong
 untuk di Main objek diinstansiasi secara hardcode lalu fetch data objek yang telah dibuat tadi menggunakan metode async dan await
 tampilkan datanya
+![Screenshot 2024-03-12 152249](https://github.com/ubbbeee/TP1PemrogramanVisualC2/assets/120569318/e134569f-dcfb-4335-b4be-5b31d89e8cfe)
